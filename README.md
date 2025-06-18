@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on graphics with d3.js
+- 🔭 I’m currently working on graphics with D3.js
 
 <!--
 **mchl-mumo/mchl-mumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
